@@ -1,4 +1,4 @@
-# Cybersecurity
+# Cybersecurity: Privacy Preserving Contact Tracing
 
 Questo progetto è stato realizzato in collaborazione con altri tre studenti per il corso di Cyber Security tenuto all’università degli studi di Salerno. Lo scopo del progetto consiste nel modellare ed implementare la parte di sicurezza e privacy di un sistema di tracciamento dei contatti che avvengono tra gli utenti. 
 
